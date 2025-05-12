@@ -1,0 +1,8 @@
+PyMuPDF
+mistralai
+python-dotenv
+Flask
+Flask-CORS
+Werkzeug
+pdfminer.six
+# Aggiungi qui altre dipendenze se necessario, una per riga
